@@ -1,10 +1,10 @@
 # Hello, I'm Bereket! 👋
 
-I'm an aspiring Machine Learning Engineer with a passion for leveraging data to solve real-world problems.
+I'm a Machine Learning Engineer with a passion for leveraging data to solve real-world problems.
 
 ## About Me
 
-- 🔭 Exploring advanced machine learning algorithms and techniques.
+- 🔭 working on Agentic AI, advanced ML.
 - 🔒 Interested in cybersecurity and exploring ways to integrate machine learning with security measures.
 - 🛠️ Utilizing Django for backend development in my projects.
 - 📚 As a hobby, I enjoy reading books on self-development, philosophy, and various other topics.
